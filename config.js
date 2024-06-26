@@ -21,7 +21,7 @@
 
 
 module.exports = {
-  TOKEN: "Your Token ID",
+  TOKEN: "",
   ownerID: ["920508073423028274", ""],
   botInvite: "",
   supportServer: "https://discord.gg/GeSw7wHZnW",
