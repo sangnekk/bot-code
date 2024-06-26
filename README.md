@@ -1,4 +1,4 @@
-#  MULTI-MUSIC BOT BY GlaceYT
+#  MULTI-MUSIC BOT BY SengTran
 ▶️ simple and powerful music bot.
 ▶️ consisting of various commands.
 ▶️ Still in development you may face minor bugs|
