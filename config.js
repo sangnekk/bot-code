@@ -22,7 +22,7 @@
 
 module.exports = {
   TOKEN: "Your Token ID",
-  ownerID: ["id discord", ""],
+  ownerID: ["920508073423028274", ""],
   botInvite: "",
   supportServer: "https://discord.gg/GeSw7wHZnW",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
